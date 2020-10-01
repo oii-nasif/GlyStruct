@@ -1,0 +1,25 @@
+
+introduction: Glycation (sometimes called non-enzymatic glycosylation) is the result of the typically covalent bonding
+ of a sugar molecule, such as glucose or fructose, to a protein or lipid molecule, without the controlling action of an 
+enzyme. Glycation may occur either inside the body (endogenous glycation) or outside the body (exogenous glycation). 
+It is a haphazard process that impairs the functioning of biomolecules, and does not require the expenditure of ATP.
+ Glycosylation, in contrast, is the enzyme-mediated ATP-dependent attachment of sugars to protein or lipid molecules 
+at defined sites on the target molecule. It is an important form of post-translational modification of proteins and 
+is required for the functioning of the mature molecule.Glycation is the first step in the evolution of these molecules 
+through a complex series of very slow reactions in the body known as Amadori reactions, Schiff base reactions, and
+ Maillard reactions; which lead to advanced glycation endproducts (AGEs). Some AGEs are benign, but others are more 
+reactive than the sugars they are derived from, and are implicated in many age-related chronic diseases such as 
+cardiovascular diseases (the endothelium, fibrinogen, and collagen are damaged), Alzheimer's disease (amyloid proteins 
+are side-products of the reactions progressing to AGEs), cancer (acrylamide and other side-products are released),
+ peripheral neuropathy (the myelin is attacked), and other sensory losses such as deafness (due to demyelination). 
+This range of diseases is the result of the very basic level at which glycations interfere with molecular and cellular 
+functioning throughout the body and the release of highly oxidizing side-products such as hydrogen peroxide.
+
+
+
+
+motivation:N-linked glycosylation occurs predominantly at the N-X-T/S motif, where X is
+ any amino acid except proline. Not all N-X-T/S sequons are glycosylated, and
+ a number of web servers for predicting N-linked glycan occupancy using sequence and/or 
+residue pattern information have been developed. None of the currently available servers,
+ however, utilizes protein structural information for the prediction of N-glycan occupancy
